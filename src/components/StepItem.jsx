@@ -1,3 +1,3 @@
 export default function StepItem({ text }) {
-    return <li>{text}</li>;
+    return <li className="text-gray-700">{text}</li>;
 }
